@@ -1,4 +1,4 @@
-# Awesome Kurdish
+# Awesome Kurdish Tech
 
 A curated list of Kurdish language tools, datasets, and resources.
 
