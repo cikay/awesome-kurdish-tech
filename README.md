@@ -4,7 +4,7 @@ A curated list of Kurdish language tools, datasets, and resources.
 
 ## Tools
 
-### Data Collection
+### Data Collectors
 
 - [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
 
