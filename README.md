@@ -1,6 +1,6 @@
 # Awesome Kurdish Tech
 
-A curated list of Kurdish language tools, datasets, and resources.
+A curated list of Kurdish language AI models, datasets and packages
 
 ## AI Models
 
