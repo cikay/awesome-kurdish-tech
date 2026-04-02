@@ -2,16 +2,7 @@
 
 A curated list of Kurdish language tools, datasets, and resources.
 
-## Tools
-
-### Data Collection
-
-- [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
-
-### Text Preprocessing
-
-- [kmr_standardizer](https://github.com/cikay/kmr_standardizer) — Regex-based Kurmanji (Kurmancî) text standardizer that applies orthographic rules from *Rêbara Rastnivîsînê* (Weqfa Mezopotamya).
-- [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt) — Kurdish NLP toolkit in Python.
+## AI Models
 
 ### Language Identification
 
@@ -25,6 +16,17 @@ A curated list of Kurdish language tools, datasets, and resources.
 
 - [muzaffercky/kurdish-kurmanji-news](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-news) — ~271k Kurdish (Kurmanji, Latin script) news articles with `title`, `url`, and `content` columns (train/test splits).
 - [kurdish-twitter-data](https://github.com/ftkurt/kurdish-twitter-data) — Kurdish Twitter data for Kurmanji and Sorani.
+
+## Packages
+
+### Data Collection
+
+- [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
+
+### Text Preprocessing
+
+- [kmr_standardizer](https://github.com/cikay/kmr_standardizer) — Regex-based Kurmanji (Kurmancî) text standardizer that applies orthographic rules from *Rêbara Rastnivîsînê* (Weqfa Mezopotamya).
+- [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt) — Kurdish NLP toolkit in Python.
 
 ## Contributing
 
