@@ -8,7 +8,7 @@ A curated list of Kurdish language AI models, datasets and packages
 
 - [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) — fastText language identification model (`lid218e`) for 217 languages (includes Kurdish varieties such as Kurmanji and Sorani).
 
-### Speech (TTS)
+### ASR/STT/TTS
 
 - [facebook/mms-tts-kmr-script_latin](https://huggingface.co/facebook/mms-tts-kmr-script_latin) — Meta MMS text-to-speech model for Kurmanji (`kmr`, Latin script).
 
