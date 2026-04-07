@@ -1,6 +1,6 @@
 # Awesome Kurdish Tech
 
-A curated list of Kurdish language tools, datasets, and resources.
+A curated list of Kurdish language AI models, datasets and packages
 
 ## AI Models
 
@@ -25,7 +25,7 @@ A curated list of Kurdish language tools, datasets, and resources.
 
 ## Packages
 
-### Data Collection
+### Data Collectors
 
 - [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
 
