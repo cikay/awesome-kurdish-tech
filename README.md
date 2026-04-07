@@ -8,9 +8,15 @@ A curated list of Kurdish language tools, datasets, and resources.
 
 - [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) — fastText language identification model (`lid218e`) for 217 languages (includes Kurdish varieties such as Kurmanji and Sorani).
 
-### Speech (TTS)
+### Speech
+
+#### Text To Speech(TTS)
 
 - [facebook/mms-tts-kmr-script_latin](https://huggingface.co/facebook/mms-tts-kmr-script_latin) — Meta MMS text-to-speech model for Kurmanji (`kmr`, Latin script).
+
+#### Forced Alignment
+
+- [MahmoudAshraf/mms-300m-1130-forced-aligner](https://huggingface.co/MahmoudAshraf/mms-300m-1130-forced-aligner) — CTC forced-aligner (MMS) for word-level timestamps; Kurdish support is via MMS ISO-639-3 language adapters (e.g. Central Kurdish / Sorani `ckb`, and Kurmanji `kmr-script_latin` / `kmr-script_arabic` / `kmr-script_cyrillic`).
 
 ## Datasets
 
