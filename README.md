@@ -20,8 +20,14 @@ A curated list of Kurdish language AI models, datasets and packages
 
 ## Datasets
 
+### Text datasets
+
 - [muzaffercky/kurdish-kurmanji-news](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-news) — ~271k Kurdish (Kurmanji, Latin script) news articles with `title`, `url`, and `content` columns (train/test splits).
 - [kurdish-twitter-data](https://github.com/ftkurt/kurdish-twitter-data) — Kurdish Twitter data for Kurmanji and Sorani.
+
+### Speech datasets
+
+- [azadiya-welat-kurdish-kurmanji-voice](https://huggingface.co/datasets/muzaffercky/azadiya-welat-kurdish-kurmanji-voice) — Paired Kurmanji audio-text corpus with 15,284 segments (25.9h) of 16 kHz mono WAV from Azadiya Welat news readings, aligned to Latin script transcripts for TTS and ASR fine-tuning.
 
 ## Packages
 
