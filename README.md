@@ -6,7 +6,8 @@ A curated list of Kurdish language AI models, datasets and packages
 
 ### Language Identification
 
-- [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) — fastText language identification model (`lid218e`) for 217 languages (includes Kurdish varieties such as Kurmanji and Sorani).
+- [cis-lmu/glotlid](https://huggingface.co/cis-lmu/glotlid) — GlotLID language identification model that distinguishes Kurdish varieties including Zaza language and Kurmanji more correctly.
+- [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) — fastText language identification model (`lid218e`) for 217 languages; useful for broad filtering, but it does not reliably distinguish Zaza language and Kurmanji.
 
 ### Speech
 
