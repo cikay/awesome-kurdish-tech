@@ -28,7 +28,10 @@ A curated list of Kurdish language AI models, datasets and packages
 
 ### Speech datasets
 
-- [azadiya-welat-kurdish-kurmanji-voice](https://huggingface.co/datasets/muzaffercky/azadiya-welat-kurdish-kurmanji-voice) — Paired Kurmanji audio-text corpus with 15,284 segments (25.9h) of 16 kHz mono WAV from Azadiya Welat news readings, aligned to Latin script transcripts for TTS and ASR fine-tuning.
+
+- [azadiya-welat-kurdish-kurmanji-voice-v2](https://huggingface.co/datasets/muzaffercky/azadiya-welat-kurdish-kurmanji-voice-v2) — Second release of the azadiya-welat-kurdish-kurmanji-voice dataset with 16,000 Kurmanji segments (27.1h total, 2–15 s each) sourced from Azadiya Welat articles and YouTube; covers 20 speakers but dominated by a single speaker; includes forced-alignment scores and DNS MOS quality metrics for TTS fine-tuning.
+
+- [azadiya-welat-kurdish-kurmanji-voice](https://huggingface.co/datasets/muzaffercky/azadiya-welat-kurdish-kurmanji-voice) — Paired Kurmanji audio-text dataset with 15,284 segments (25.9h) of 16 kHz mono WAV from Azadiya Welat news readings, aligned to Latin script transcripts for TTS fine-tuning.
 
 ## Packages
 
