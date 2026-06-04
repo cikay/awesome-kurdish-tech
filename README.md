@@ -24,6 +24,7 @@ A curated list of Kurdish language AI models, datasets and packages
 ### Text datasets
 
 - [muzaffercky/kurdish-kurmanji-news](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-news) — ~271k Kurdish (Kurmanji, Latin script) news articles with `title`, `url`, and `content` columns (train/test splits).
+- [muzaffercky/kurdish-kurmanji-theses](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-theses) — 389 Kurmanji (Latin script) academic theses extracted from the Turkish national thesis repository (YÖK), totalling 57.6 MB; non-Kurdish paragraphs filtered via GlotLID v3 (≥0.7 confidence); includes thesis ID, title, URL, word count, and cleaned text.
 - [kurdish-twitter-data](https://github.com/ftkurt/kurdish-twitter-data) — Kurdish Twitter data for Kurmanji and Sorani.
 
 ### Speech datasets
@@ -33,6 +34,7 @@ A curated list of Kurdish language AI models, datasets and packages
 ### Data Collectors
 
 - [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
+- [kurdish-kurmanji-thesis](https://github.com/cikay/kurdish-kurmanji-thesis) — Pipeline that scrapes Kurmanji theses from YÖK Ulusal Tez Merkezi, extracts and normalizes text via PyMuPDF, filters to Kurmanji-only content using GlotLID v3, and publishes to Hugging Face.
 
 ### Text Preprocessing
 
