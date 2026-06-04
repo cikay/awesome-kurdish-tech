@@ -34,6 +34,7 @@ A curated list of Kurdish language AI models, datasets and packages
 ### Data Collectors
 
 - [kurdish_scrapy](https://github.com/cikay/kurdish_scrapy) — Scrapy-based crawler that collects Kurdish text from websites, extracts article content (Trafilatura), and filters by language (FastText) including `kmr_Latn`, `ckb_Arab`, and `diq_Latn` or any other language.
+- [kurdish-kurmanji-thesis](https://github.com/cikay/kurdish-kurmanji-thesis) — Pipeline that scrapes Kurmanji theses from YÖK Ulusal Tez Merkezi, extracts and normalizes text via PyMuPDF, filters to Kurmanji-only content using GlotLID v3, and publishes to Hugging Face.
 
 ### Text Preprocessing
 
