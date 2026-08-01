@@ -23,6 +23,7 @@ A curated list of Kurdish language AI models, datasets and packages
 
 ### Text datasets
 
+- [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) — Multilingual Common Crawl pretraining corpus with Kurdish subsets: Central Kurdish (`ckb_Arab`), Kurmanji (`kmr_Latn`, `kmr_Cyrl`), Zazaki (`diq_Latn`), Kirmanjki (`kiu_Latn`), Southern Kurdish (`sdh_Arab`), and Laki (`lki_Arab`).
 - [muzaffercky/kurdish-kurmanji-news](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-news) — ~271k Kurdish (Kurmanji, Latin script) news articles with `title`, `url`, and `content` columns (train/test splits).
 - [muzaffercky/kurdish-kurmanji-theses](https://huggingface.co/datasets/muzaffercky/kurdish-kurmanji-theses) — 389 Kurmanji (Latin script) academic theses extracted from the Turkish national thesis repository (YÖK), totalling 57.6 MB; non-Kurdish paragraphs filtered via GlotLID v3 (≥0.7 confidence); includes thesis ID, title, URL, word count, and cleaned text.
 - [kurdish-twitter-data](https://github.com/ftkurt/kurdish-twitter-data) — Kurdish Twitter data for Kurmanji and Sorani.
