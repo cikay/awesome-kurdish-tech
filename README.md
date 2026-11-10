@@ -40,6 +40,7 @@ A curated list of Kurdish language AI models, datasets and packages
 
 ### Text Preprocessing
 
+- [wtpsplit](https://github.com/segment-any-text/wtpsplit) — Robust sentence/text segmentation using Segment Any Text (SaT) models across 85+ languages including Kurdish (`ku`); works without relying on punctuation or casing, useful for splitting raw corpora into sentences.
 - [kmr_standardizer](https://github.com/cikay/kmr_standardizer) — Regex-based Kurmanji (Kurmancî) text standardizer that applies orthographic rules from *Rêbara Rastnivîsînê* (Weqfa Mezopotamya).
 - [Kurdish Language Processing Toolkit (KLPT)](https://github.com/sinaahmadi/klpt) — Kurdish NLP toolkit in Python.
 
